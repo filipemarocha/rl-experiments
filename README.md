@@ -13,3 +13,5 @@ Activate this virtualenv and then install the following dependencies using `pip`
 - numpy
 - gym-simple (clone other repository of this github account and install it as instructed)
 - matplotlib
+- keras
+- scikit-learn
